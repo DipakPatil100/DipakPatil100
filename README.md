@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakpatil100&label=Profile%20views&color=0e75b6&style=flat" alt="dipakpatil100" /> </p>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Profile">
 
-- 🌱 I’m currently learning **React, JS**
+- 🌱 I’m currently learning **React, NodeJS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **dvkk100@gmail.com**
 
